@@ -1,0 +1,1 @@
+This repository demonstrates a common, yet easily missed, error in Python: an unclosed parenthesis in a function's return statement.  The `bug.py` file contains the erroneous code, resulting in a `SyntaxError`. The corrected version is provided in `bugSolution.py`.
